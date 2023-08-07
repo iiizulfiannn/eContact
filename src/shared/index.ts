@@ -1,6 +1,5 @@
 //
 export * from './ui/brand';
-export * from './ui/custom-nav-bar';
 export * from './ui/space';
 export * from './ui/loading';
 
